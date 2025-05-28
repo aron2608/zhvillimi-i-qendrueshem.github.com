@@ -37,14 +37,16 @@ header {
 }
 
 header h1 {
-  margin: 0;
-  font-size: 2.5rem;
-  letter-spacing: 1px;
-  animation: fadeIn 2s ease;
+  background: linear-gradient(90deg, #2e7d32, #a5d6a7);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
 }
 
+
 .intro {
-  background: url('https://images.unsplash.com/photo-1508780709619-79562169bc64') center/cover no-repeat;
+  background: url('https://cdn.sanity.io/images/hvd5n54p/production/96118674f70123800c3adeea5fd692bf914f4e29-1920x1494.jpg?format=webp') center/cover no-repeat;
   color: white;
   padding: 4rem 2rem;
   text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7);
