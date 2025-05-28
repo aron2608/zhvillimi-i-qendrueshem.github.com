@@ -28,13 +28,7 @@ nav a:hover {
   color: #c8e6c9;
 }
 
-header {
-  background: linear-gradient(to right, #4CAF50, #81C784);
-  padding: 2rem 1rem;
-  text-align: center;
-  color: white;
-  font-family: 'Playfair Display', serif;
-}
+
 
 header h1 {
   background: linear-gradient(90deg, #a8e063, #56ab2f);
