@@ -30,13 +30,17 @@ nav a:hover {
 
 
 
-header h1 {
-  background: linear-gradient(90deg, #a8e063, #56ab2f);
-  color: white;
-  padding: 20px;
-  border-radius: 12px;
+header {
+  background: linear-gradient(135deg, #a8e063, #56ab2f);
+  padding: 80px 20px;
   text-align: center;
-  font-size: 2em;
+}
+
+header h1 {
+  font-size: 3em;
+  color: white;
+  margin: 0;
+  font-family: 'Playfair Display', serif;
 }
 
 
