@@ -37,12 +37,14 @@ header {
 }
 
 header h1 {
-  background: linear-gradient(90deg, #2e7d32, #a5d6a7);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-  color: transparent;
+  background: linear-gradient(90deg, #a8e063, #56ab2f);
+  color: white;
+  padding: 20px;
+  border-radius: 12px;
+  text-align: center;
+  font-size: 2em;
 }
+
 
 
 .intro {
